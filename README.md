@@ -3,7 +3,7 @@
 - 🎓 Análise e desenvolvimento de sistemas
 - 🦾 Técnico em mecatrônica
 - ❤️ Apaixonado por tecnologia
-<div>
+<div align="center">
   <a href="https://github.com/mateuspad">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateuspad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspad&layout=compact&langs_count=7&theme=dracula"/>
